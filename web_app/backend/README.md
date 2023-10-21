@@ -9,6 +9,7 @@
 # To Install dependency
     # command
         -   npm  i express nodemon
+        -   npm  i dotenv body-parser mongoose
 
 
 
