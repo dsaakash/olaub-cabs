@@ -26,14 +26,21 @@ mongoose.connection.on('error',()=>{
 });
 
 
-// apis
+// routes 
 
 
-app.use('/',(req,res)=>{
+const userRoute = require('./route/UserRoute');
 
-    res.send('Home page');
+app.use('/api',userRoute);
 
-});
+
+
+
+// app.use('/',(req,res)=>{
+
+//     res.send('Home page');
+
+// });
 
 
 

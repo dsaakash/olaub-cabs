@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642054348248",
+    "project_id": "ubola-user-47929",
+    "storage_bucket": "ubola-user-47929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642054348248:android:49e8108623ee262f5ba6ad",
+        "android_client_info": {
+          "package_name": "com.aakashappsolutions.user_app.user_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf6kqsEw5u2v8UYfZLwl6VqyFhrHL7XU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
