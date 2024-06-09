@@ -9,7 +9,6 @@ Welcome to the  Cab project! This repository contains the source code and docume
 - [Setup and Installation](#setup-and-installation)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Video Series](#video-series)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
